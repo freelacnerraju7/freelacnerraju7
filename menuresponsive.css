@@ -1,0 +1,21 @@
+@media(max-width:768px) {
+	
+	.col-md-12.for_fixed {
+		position:relative;
+	}
+	
+	
+	ul {
+    float: none;
+}
+
+li.col-md-2 {
+    float: none;
+    width: 100%;
+    background: #239a27;
+    padding: 10px;
+    text-align: center;
+}
+	
+	
+}

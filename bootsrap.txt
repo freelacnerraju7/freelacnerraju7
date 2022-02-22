@@ -1,0 +1,97 @@
+class 1 ............
+
+
+<button class="btn btn-success"> Click </button>
+
+<div class="container"> Freelancer Raju </div>
+
+
+class 4 ..........
+
+<div class="col-sm-12"> Col 1 </div>
+
+
+class 6 img classes...........
+
+
+<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+					
+					<div class="media"> <img class="mr-3" width="64" height="64" src="Raju.jpg" alt="" />
+					
+					<div class="media-body"> 
+					<h5 class="mt-0">Web Design</h5>
+					
+					We are learning freelancing on freelancerraju.com We are learning freelancing on
+					 freelancerraju.com We are learning freelancing on freelancerraju.com We are 
+					learning freelancing on freelancerraju.com We are learning freelancing on 
+					freelancerraju.com 
+					
+					</div>
+					
+					</div>
+					
+					
+					</div>
+				</div>	
+			</div>
+
+
+img classes........class="align-self-start/center/end mr-3" class="text-muted"  class="badge-success"
+
+
+class 7 responsive images......
+
+
+img-thumbnail......responsive
+
+
+
+
+class 7 table.....
+
+scope="row"
+
+<table class="table table-dark"> <table>
+
+class="table table-light/dark table-striped"
+
+thdead tr class="thead-dark/light"
+
+
+<table class="table table-bordered/borderless">
+
+<table class="table table-hover">
+
+
+
+<img src="Raju.jpg" class="img-fluid" alt="">
+
+
+<figure class="figure">			
+<img src="Raju.jpg" class="figure-img img-fluid rounded" alt="...">
+</figure>
+
+
+<span class="badge badge-pill badge-primary">Primary</span>
+<span class="badge badge-pill badge-secondary">Secondary</span>
+<span class="badge badge-pill badge-success">Success</span>
+<span class="badge badge-pill badge-danger">Danger</span>
+<span class="badge badge-pill badge-warning">Warning</span>
+<span class="badge badge-pill badge-info">Info</span>
+<span class="badge badge-pill badge-light">Light</span>
+<span class="badge badge-pill badge-dark">Dark</span>
+
+
+
+
+
+
+
+
+
+
+
+
+
